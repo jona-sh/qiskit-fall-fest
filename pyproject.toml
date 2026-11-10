@@ -13,6 +13,7 @@ dependencies = [
     "numpy>=2.5.4",
     "pylatexenc>=2.11",
     "qiskit>=2.2,<3",
+    "qiskit-ibm-runtime>=0.52.0",
     "scipy>=1.18.1",
     "struqture-py>=2.6.0",
 ]
